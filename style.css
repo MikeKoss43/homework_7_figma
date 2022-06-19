@@ -1,0 +1,117 @@
+@import 'null.css';
+
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap');
+
+
+.wrapper {
+	max-width: 810px;
+	margin: 0px auto;
+}
+
+h1 {
+
+	Font-family: Lato;
+	Font-size: 46px;
+	font-weight: 900;
+	Line-height: 130%;
+	text-align: left;
+	height: 120px;
+	margin-top: 118px;
+	margin-bottom: 92px;
+
+}
+
+.img {
+	width: 810px;
+	height: 360px;
+	margin-bottom: 60px;
+
+}
+
+.one {
+	font-family: Lato;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 24px;
+}
+
+.two {
+	text-align: left;
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 25px;
+	margin-bottom: 48px;
+}
+
+.three {
+	Font-family: Lato;
+	font-weight: Bold;
+	Font-size: 20px;
+	Line-height: 150%;
+	margin-bottom: 48px;
+	padding-left: 58px;
+	background-image: url('braces.jpg');
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+
+.four {
+	font-family: Lato;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: left;
+	margin-bottom: 24px;
+}
+
+
+
+li {
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 26px;
+	padding: 10px 0px 0px 32px;
+	background: url('check.png') 0 15px / auto no-repeat;
+	
+	
+
+}
+
+.list {
+	margin-bottom: 24px;
+}
+
+.five {
+	font-family: Lato;
+	font-size: 16px;
+	line-height: 26px;
+	text-align: left;
+        margin-bottom: 60px;
+}
+
+.span {
+	margin-top: 39px;
+}
+
+button {
+	
+	max-width: 400px;
+        margin: 0px 0px 50px 400px;
+        padding: 50px;
+	border-radius: 0% 98% 53% 66% / 0% 75% 52% 100% ;
+	background-color: rgba(255, 63, 58, 1);
+	text-align: center;
+ 
+}
+
+a {
+	color: blue;
+	font-family: 'Lato';
+	font-size: 20px;
+	
+	
+}
